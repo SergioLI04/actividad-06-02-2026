@@ -1,0 +1,10 @@
+#!/bin/bash
+
+echo "1. Actualizando el codigo desde GitHub"
+
+cd actividad-06-02-2026
+
+git pull origin main
+
+
+echo "2. Compilar el Servlet"
